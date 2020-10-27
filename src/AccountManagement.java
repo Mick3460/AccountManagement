@@ -6,5 +6,6 @@ public class AccountManagement {
     private String name;
     private double balance;
     private int test;
+    private int gustavWasHere;
 
 }
